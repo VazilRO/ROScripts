@@ -384,7 +384,11 @@ H_LordOfDead:
 	mes "[Fashionista]";
 	mes "You're going to need...";
 
-	mes "List"
+	mes "200x Memento"; //934
+	mes "150x Skel-Bone"; //932
+	mes "100x Skull"; //7005
+	mes "100x Clattering Skull"; //7752
+	mes "1x Bone Helm[1]"; //5162
 	menu "Here ya go.",M_LordOfDead,"Return to Menu",H_CHOICE, "Nah, forget it.",N_CLOSE;
 
 H_Mercury:
