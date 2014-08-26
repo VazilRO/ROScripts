@@ -408,7 +408,11 @@ H_Necro:
 	mes "[Fashionista]";
 	mes "You're going to need...";
 
-	mes "List"
+	mes "200x Fabric"; //1059
+	mes "100x Evil Horn"; //923
+	mes "50x Dark Piece"; //6089
+	mes "20x Level 5 Soul Strike"; //695
+	mes "5x Orange Dyestuffs"; //980
 	menu "Here ya go.",M_Necro,"Return to Menu",H_CHOICE, "Nah, forget it.",N_CLOSE;
 
 H_Peco:
@@ -472,7 +476,11 @@ H_Skull:
 	mes "[Fashionista]";
 	mes "You're going to need...";
 
-	mes "List"
+	mes "200x Memento"; //934
+	mes "150x Skel-Bone"; //932
+	mes "100x Skull"; //7005
+	mes "100x Clattering Skull"; //7752
+	mes "1x Bone Helm[1]"; //5162
 	menu "Here ya go.",M_Skull,"Return to Menu",H_CHOICE, "Nah, forget it.",N_CLOSE;
 
 H_Baseball:
@@ -520,7 +528,11 @@ H_Vanar:
 	mes "[Fashionista]";
 	mes "You're going to need...";
 
-	mes "List"
+	mes "200x Ancient Tooth"; //1053
+	mes "200x Denture from Dragon Mask"; //7266
+	mes "200x Dragon Canine"; //1035
+	mes "10x Fang of Hatii"; //7036
+	mes "1x Dark Bacilium[1]"; //5808
 	menu "Here ya go.",M_Vanar,"Return to Menu",H_CHOICE, "Nah, forget it.",N_CLOSE;
 
 H_Witch:
@@ -528,7 +540,11 @@ H_Witch:
 	mes "[Fashionista]";
 	mes "You're going to need...";
 
-	mes "List"
+	mes "500x Witch Starsand"; //1061
+	mes "200x Peaked Hat"; //6021
+	mes "50x Jack o' Pumpkin"; //1062
+	mes "10x Violet Dyestuffs"; //981
+	mes "and 3 million Zeny";
 	menu "Here ya go.",M_Witch,"Return to Menu",H_CHOICE, "Nah, forget it.",N_CLOSE;
 
 H_Yggdrasil:
@@ -536,7 +552,11 @@ H_Yggdrasil:
 	mes "[Fashionista]";
 	mes "You're going to need...";
 
-	mes "List"
+	mes "200x Morning Dew of Yggdrasil"; //7141
+	mes "100x Strong Branch"; //7203
+	mes "100x Yggdrasil Leaf"; //610
+	mes "50x Yggdrasil Seed"; //608
+	mes "20x Yggdrasil Berry"; //607
 	menu "Here ya go.",M_Yggdrasil,"Return to Menu",H_CHOICE, "Nah, forget it.",N_CLOSE;
 	
 //___________ITEM REQUIREMENTS MIDDLE___________//
